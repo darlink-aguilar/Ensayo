@@ -1,0 +1,15 @@
+C:\Users\Darlin K\Ensayo\doc\bin\Debug\net9.0\doc.exe
+C:\Users\Darlin K\Ensayo\doc\bin\Debug\net9.0\doc.deps.json
+C:\Users\Darlin K\Ensayo\doc\bin\Debug\net9.0\doc.runtimeconfig.json
+C:\Users\Darlin K\Ensayo\doc\bin\Debug\net9.0\doc.dll
+C:\Users\Darlin K\Ensayo\doc\bin\Debug\net9.0\doc.pdb
+C:\Users\Darlin K\Ensayo\doc\obj\Debug\net9.0\doc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darlin K\Ensayo\doc\obj\Debug\net9.0\doc.AssemblyInfoInputs.cache
+C:\Users\Darlin K\Ensayo\doc\obj\Debug\net9.0\doc.AssemblyInfo.cs
+C:\Users\Darlin K\Ensayo\doc\obj\Debug\net9.0\doc.csproj.CoreCompileInputs.cache
+C:\Users\Darlin K\Ensayo\doc\obj\Debug\net9.0\doc.sourcelink.json
+C:\Users\Darlin K\Ensayo\doc\obj\Debug\net9.0\doc.dll
+C:\Users\Darlin K\Ensayo\doc\obj\Debug\net9.0\refint\doc.dll
+C:\Users\Darlin K\Ensayo\doc\obj\Debug\net9.0\doc.pdb
+C:\Users\Darlin K\Ensayo\doc\obj\Debug\net9.0\doc.genruntimeconfig.cache
+C:\Users\Darlin K\Ensayo\doc\obj\Debug\net9.0\ref\doc.dll
